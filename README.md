@@ -1,3 +1,7 @@
+## Output
+![CC_output1](https://user-images.githubusercontent.com/77978604/233698676-f2c7b005-f9b4-4c8c-8d31-e7c3801b79b0.jpg)
+
+
 ## Problem Statement
 Microservices are an architectural and organizational approach to software development where software is composed of small independent services that communicate over well-defined APIs. Microservices architectures make applications easier to scale and faster to develop, enabling innovation and accelerating time-to-market for new features.
 Docker and Kubernetes are almost synonymous to 'microservices' as they help package and manage the different components of a project/ application, thereby easing up the implementation of a microservices architecture.
